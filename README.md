@@ -1,7 +1,7 @@
 # Hi there 👋
 ## :technologist:
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E¢er=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+SEU+NOME+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E¢er=true&vCenter=true&width=600&lines=Hi%2C++I'm+Luccas+Badiani+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
