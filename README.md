@@ -1,10 +1,15 @@
 # Hi there 👋
 ## :technologist:
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E¢er=true&vCenter=true&width=600&lines=Hi%2C++I'm+Luccas+Badiani+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+perfil&color=blueviolet&style=flat" alt="views" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,linux,git,python,r,anaconda&theme=light" />
+  </a>
 </p>
-<!--<img width="2560" height="1440" alt="dreamina-2026-05-02-7960-Personagem de coruja em estilo cartoon 3" src="https://github.com/user-attachments/assets/7c45c722-50e2-4504-b624-c9bca4045f15" /> 
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SEU_CANAL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/SEU_TWITCH)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_SERVIDOR)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
