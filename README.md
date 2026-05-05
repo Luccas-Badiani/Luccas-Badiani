@@ -10,10 +10,10 @@
 
 <p align="center">
  </a>
-  <a href="mailto:SEU@gmail.com">
+  <a href="mailto:luccasbiostud@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/SEU_PERFIL">
+  <a href="https://linkedin.com/in/luccas-badiani-233409233/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
