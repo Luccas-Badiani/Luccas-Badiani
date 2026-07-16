@@ -1,19 +1,11 @@
-# Hi, I'm Luccas :dna: :technologist:
+<img src="./paper_github.png" width="400" align="right" />
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,git,python,r,anaconda&theme=light" />
-  </a>
+<p align="left">
+  <b> Hi, I'm Luccas Badiani! :dna: </b>
+  <hr>
+  Bachelor's student in Biophysics at the Federal University of Rio de 
+  Janeiro with a strong interest in bioinformatics,
+  omics science and data science applied to the life and health sciences. 
+  My research 
 </p>
 
-
-<p align="center">
- </a>
-  <a href="mailto:luccasbiostud@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/luccas-badiani-233409233/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
