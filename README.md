@@ -1,5 +1,5 @@
-# Hi there 👋
-## :technologist:
+# Hi, I'm Luccas :dna: :technologist:
+
 
 <p align="center">
   <a href="https://skillicons.dev">
