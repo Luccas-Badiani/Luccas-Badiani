@@ -1,12 +1,12 @@
-<img src="./paper_github.png" width="330" align="right" />
+<img src="./paper_github.png" width="320" align="right" />
 
 <p align="left">
-  <b> Hi, I'm Luccas Badiani! :dna: </b><br><br>
+  <h3> <b>Hi, I'm Luccas Badiani! :dna: </b></h3>  
   Bachelor's student in Biophysics at the Federal University of Rio de 
-  Janeiro with a strong interest in bioinformatics,
-  omics science and data science applied to the life and health sciences. 
+  Janeiro with a strong interest in Bioinformatics,
+  Multi-omics and Data Science applied to the life and health sciences. 
 </p>
-<h3> Technologies </h3>
+<h3> Tools I work with </h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
