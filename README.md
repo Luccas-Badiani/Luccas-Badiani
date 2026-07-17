@@ -1,7 +1,8 @@
 <img src="./paper_github.png" width="500" align="right" />
 
 <p align="left">
-  <h3> <b>Hi, I'm Luccas Badiani! :dna: </b></h3> 
+  <h3> <b>Hi, I'm Luccas Badiani! :dna: </b></h3>
+  <hr>
   Bachelor's student in Biophysics at the Federal University of Rio de 
   Janeiro with a strong interest in Bioinformatics,
   Multi-omics and Data Science applied to the life and health sciences. 
