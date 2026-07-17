@@ -1,4 +1,4 @@
-<img src="./paper_github.png" width="530" align="right" />
+<img src="./paper_github.png" width="500" align="right" />
 
 <p align="left">
   <h3> <b>Hi, I'm Luccas Badiani! :dna: </b></h3> 
