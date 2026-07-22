@@ -2,7 +2,7 @@
 
 <p align="left">
   <h3> <b>Hi, I'm Luccas Badiani! :dna: </b></h3>
-  Bachelor's student in Biophysics at the Federal University of Rio de 
+  Bachelor's student in Biotechonoly at the University of the State of Rio de 
   Janeiro with a strong interest in Bioinformatics,
   Multi-omics and Data Science applied to the life and health sciences. 
 </p>
