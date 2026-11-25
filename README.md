@@ -18,11 +18,21 @@
 <hr>
 <h3> Tools I work with </h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Conda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![R](https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=r&logoColor=black)
+![SQL](https://img.shields.io/badge/mySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black)
+![Numpy](https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-FFFFFF?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Nextflow](https://img.shields.io/badge/Nextflow-FFFFFF?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Miniconda](https://img.shields.io/badge/Miniconda-FFFFFF?style=for-the-badge&logo=anaconda&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 
-
+[![Luccas's_activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Luccas-Badiani&custom_title=Contributions%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&area=true&area_color=FFFFFF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
