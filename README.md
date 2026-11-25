@@ -1,6 +1,4 @@
-<img src="./paper_github.png" width="500" align="right" />
-
-<p align="left">
+<p align="center">
   <h3> <b>Hi, I'm Luccas Badiani! :dna: </b></h3>
   Bachelor's student in Biological Sciences - biotechnology at the University of the State of Rio de 
   Janeiro with a strong interest in Bioinformatics, Multi-omics and Data Science applied to the life and health sciences. 
