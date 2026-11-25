@@ -36,3 +36,12 @@
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
 
 [![Luccas's_activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Luccas-Badiani&custom_title=Contributions%20Activity&bg_color=000000&color=FFFFFF&line=FFFFFF&area=true&area_color=FFFFFF&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Luccas-Badiani&layout=donut-vertical&hide_title=true&langs_count=4&hide_values=true&theme=flag-india">
+    <img height="220" src="https://github-stats-extended.vercel.app/api/top-langs?username=Luccas-Badiani&layout=donut-vertical&hide_title=true&langs_count=4&hide_values=true&theme=flag-india"/>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=Luccas-Badiani&include_all_commits=true&theme=graywhite">
+    <img height="300" src="https://github-stats-extended.vercel.app/api?username=Luccas-Badiani&include_all_commits=true&theme=graywhite" />
+  </a>
+</p>
